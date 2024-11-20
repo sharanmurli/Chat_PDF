@@ -1,7 +1,3 @@
-Sure, I'll add the instructions for creating a virtual environment before installing dependencies. Here is your updated README:
-
----
-
 # Chat with Multiple PDFs using Gemini Pro, Langchain, FAISS, ChromaDB, and Streamlit! 📚🤖✨
 
 Welcome to the **Chat with PDF** project! This application allows users to upload multiple PDF documents and ask questions about the content within them. Using **Gemini Pro**, **Langchain**, **FAISS**, and **ChromaDB**, we create an efficient and intelligent system that provides contextual answers based on the uploaded documents, all with a sleek **Streamlit** frontend.
