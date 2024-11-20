@@ -19,7 +19,7 @@ Welcome to the **Chat with PDF** project! This application allows users to uploa
 
 ## 🛑 Prerequisites
 Make sure you have the following installed:
-- **Python 3.7+**
+- **Python 3.9+**
 - **pip** for installing dependencies
 - **Streamlit** for the frontend
 
@@ -29,8 +29,8 @@ Make sure you have the following installed:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/chat-with-multiple-pdfs.git
-   cd chat-with-multiple-pdfs
+   git clone https:
+   cd 
    ```
 
 2. **Install Dependencies**
@@ -70,16 +70,6 @@ Make sure you have the following installed:
 
 ---
 
-## 🖥️ User Interface
-- **Streamlit Sidebar**: 
-  - **Upload PDFs**: Upload multiple PDF files.
-  - **Submit & Process**: Process and store the PDFs in ChromaDB.
-  - **View Stored Documents**: Preview the first few lines of stored documents.
-  - **Delete Collection**: Delete all stored documents from ChromaDB.
-- **Main Area**: Ask questions and view the responses.
-
----
-
 ## 📦 Technologies Used
 - **Gemini Pro** 🤖: Advanced generative AI model for question answering.
 - **Langchain** 🧩: Framework for building language model applications.
@@ -102,25 +92,4 @@ Make sure you have the following installed:
 
 ---
 
-## 🤝 Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests for improvements or bug fixes.
 
----
-
-## 📄 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
-## 🌟 Acknowledgments
-- Thanks to **Langchain** and **OpenAI** for making powerful tools accessible!
-- Inspired by the need to create more interactive and intelligent document-based search systems.
-
----
-
-## 📞 Contact
-For questions or feedback, please reach out to [your email] or create an issue in the repository.
-
----
-
-Feel free to personalize this README and add your own GitHub repository link, contact information, and future plans. Let me know if you need any changes or have any other requirements!
