@@ -1,3 +1,6 @@
+Sure, I'll add the instructions for creating a virtual environment before installing dependencies. Here is your updated README:
+
+---
 
 # Chat with Multiple PDFs using Gemini Pro, Langchain, FAISS, ChromaDB, and Streamlit! 📚🤖✨
 
@@ -30,12 +33,24 @@ Make sure you have the following installed:
    cd Chat_PDF
    ```
 
-2. **Install Dependencies**
+2. **Create a Virtual Environment**
+   - **On Windows**:
+     ```bash
+     python -m venv venv
+     venv\Scripts\activate
+     ```
+   - **On macOS/Linux**:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     ```
+
+3. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Set Up Environment Variables**
+4. **Set Up Environment Variables**
    - Create a `.env` file in the root directory and add your API keys and other sensitive information:
      ```
      GOOGLE_API_KEY="your_google_api_key"
@@ -76,17 +91,9 @@ Make sure you have the following installed:
 
 ---
 
-## 📝 Future Improvements
-- **🔍 Enhanced Search**: Integrate more sophisticated search and ranking algorithms.
-- **🖼️ File Support**: Extend support to other file formats like Word documents.
-- **🌐 Deploy**: Deploy the app on a cloud service for public access.
-
----
-
 ## 🛡️ Security
 - **.env File**: Make sure your `.env` file is listed in `.gitignore` to prevent sensitive information from being pushed to GitHub.
 - **API Keys**: Keep your API keys secure and use environment variables to manage them.
 
 ---
-
 
