@@ -1,6 +1,3 @@
-Here's a detailed and engaging GitHub README for your project:
-
----
 
 # Chat with Multiple PDFs using Gemini Pro, Langchain, FAISS, ChromaDB, and Streamlit! 📚🤖✨
 
@@ -17,7 +14,7 @@ Welcome to the **Chat with PDF** project! This application allows users to uploa
 
 ---
 
-## 🛑 Prerequisites
+## Prerequisites
 Make sure you have the following installed:
 - **Python 3.9+**
 - **pip** for installing dependencies
@@ -25,12 +22,12 @@ Make sure you have the following installed:
 
 ---
 
-## 🏗️ Installation
+## Installation
 
 1. **Clone the Repository**
    ```bash
-   git clone https:
-   cd 
+   git clone https://github.com/sharanmurli/Chat_PDF.git
+   cd Chat_PDF
    ```
 
 2. **Install Dependencies**
@@ -41,7 +38,7 @@ Make sure you have the following installed:
 3. **Set Up Environment Variables**
    - Create a `.env` file in the root directory and add your API keys and other sensitive information:
      ```
-     GOOGLE_API_KEY=your_google_api_key
+     GOOGLE_API_KEY="your_google_api_key"
      ```
 
 ---
