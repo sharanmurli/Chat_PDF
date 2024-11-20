@@ -1,6 +1,6 @@
-# Chat with Multiple PDFs using Gemini Pro, Langchain, FAISS, ChromaDB, and Streamlit! 📚🤖✨
+# Chat with Multiple PDFs using Gemini Pro, Langchain, FAISS, ChromaDB and Streamlit! 📚🤖✨
 
-Welcome to the **Chat with PDF** project! This application allows users to upload multiple PDF documents and ask questions about the content within them. Using **Gemini Pro**, **Langchain**, **FAISS**, and **ChromaDB**, we create an efficient and intelligent system that provides contextual answers based on the uploaded documents, all with a sleek **Streamlit** frontend.
+**Chat with PDF**: This application allows users to upload multiple PDF documents and ask questions about the content within them. Using **Gemini Pro**, **Langchain**, **FAISS** and **ChromaDB**, we create an efficient and intelligent system that provides contextual answers based on the uploaded documents, all with a sleek **Streamlit** frontend.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to the **Chat with PDF** project! This application allows users to uploa
 - **🧠 Advanced Question Answering**: Uses **Langchain** with **Gemini Pro** for natural language understanding and response generation.
 - **💾 Local Storage with FAISS**: Efficiently stores and retrieves embeddings for similarity search.
 - **🗂️ Persistent Storage with ChromaDB**: Keeps document embeddings across sessions.
-- **🎛️ Interactive UI with Streamlit**: User-friendly interface for uploading files, asking questions, and managing the database.
+- **🎛️ Interactive UI with Streamlit**: User-friendly interface for uploading files, asking questions and managing the database.
 
 ---
 
@@ -75,15 +75,6 @@ Make sure you have the following installed:
    - **FAISS**: For fast, local similarity search.
    - **ChromaDB**: For persistent storage of embeddings.
 5. **Answer Questions**: The **Langchain** framework is used to build a conversational chain that searches for the most relevant chunks and generates a detailed answer.
-
----
-
-## 📦 Technologies Used
-- **Gemini Pro** 🤖: Advanced generative AI model for question answering.
-- **Langchain** 🧩: Framework for building language model applications.
-- **FAISS** 🗃️: Library for efficient similarity search and clustering.
-- **ChromaDB** 🏗️: Open-source database for embedding storage.
-- **Streamlit** 🌐: Framework for creating interactive web apps with Python.
 
 ---
 
